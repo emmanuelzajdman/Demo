@@ -1,3 +1,9 @@
 Hello Kaba!!!!
 Did you enjoy your lunch???
 This is David!!
+
+
+function sayHello
+{
+	return "Hello";
+}
