@@ -3,7 +3,7 @@ Did you enjoy your lunch???
 This is David!!
 
 
-function sayHello
+function sayHi
 {
-	return "Hello";
+	return "Hi";
 }
